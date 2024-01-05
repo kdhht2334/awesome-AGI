@@ -22,13 +22,22 @@ Please feel free to refer this repository for your AGI research/development and 
 ## Table of Contents
 
 - [GPT-based Framework](#gpt-framework) <a id="gpt-framework"></a>
-  - [2024](#2024-c)
+  - [2023](#2023-c)
+
+- [Tools](#tools)
 
 
 ## GPT-based Framework <a id="gpt-framework"></a>
 
-#### 2024 <a id="2024-c"></a>
+#### 2023 <a id="2023-c"></a>
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
 | [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/pdf/2308.00352.pdf) | ArXiv | ⭐️⭐️⭐️ | [Project](https://github.com/geekan/MetaGPT) |
+
+### Tools [back-to-top](#gpt-framework) <a id="tools"></a>
+
+| Name | Site |
+| :--- | :---: |
+| [LangChain](https://www.langchain.com/) | [GitHub](https://github.com/langchain-ai/langchain) |
+| [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) | [GitHub](https://github.com/microsoft/semantic-kernel) |
