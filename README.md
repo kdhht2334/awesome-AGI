@@ -33,6 +33,7 @@ Please feel free to refer this repository for your AGI research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf) | ArXiv | ⭐️⭐️⭐️ | [GitHub](https://github.com/joonspk-research/generative_agents) |
 | [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/pdf/2308.00352.pdf) | ArXiv | ⭐️⭐️⭐️ | [Project](https://github.com/geekan/MetaGPT) |
 
 ### Tools [back-to-top](#gpt-framework) <a id="tools"></a>
